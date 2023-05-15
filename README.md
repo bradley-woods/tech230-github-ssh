@@ -1,6 +1,6 @@
 # GitHub SSH Connection
 
-In this guide, we will be looking at how to set up an SSH connection between local Git and remote GitHub repositories.
+In this guide, we will be looking at how to set up a Secure Shell (SSH) connection between local Git and remote GitHub repositories.
 
 1. First, open a Git bash terminal window and locate your .ssh hidden folder in your user folder using the following command:
 
